@@ -1,7 +1,7 @@
 # Setup
-title: Poole
-tagline: The Jekyll Butler
-url: https://getpoole.com
+title: "Grasp'D: Differentiable Contact-rich Grasp Synthesis for Multi-fingered Hands"
+tagline: ECCV 2022
+url: https://graspd-eccv22.github.io
 paginate: 1
 baseurl: ""
 permalink: pretty
