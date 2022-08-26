@@ -47,5 +47,5 @@ grasp stability.</small>
 <br />
 - Code (coming soon)
 - Paper (coming soon)
-- [arXiv]()
+- [arXiv](https://arxiv.org/abs/2208.12250)
 - [Video walkthrough](https://www.youtube.com/watch?v=tkl_lywZ94o)
