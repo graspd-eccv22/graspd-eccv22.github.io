@@ -5,10 +5,6 @@ title: Home
 
 <br />
 
-<p class="message">
-  This page will be updated as the ECCV22 conference date approaches.
-</p>
-
 <H1>Grasp'D: Differentiable Contact-rich Grasp Synthesis for Multi-fingered Hands</H1>
 [Dylan Turpin](http://www.cs.toronto.edu/~dylanturpin/)<sup>1,2,3</sup>,
 [Liquan Wang](https://www.linkedin.com/in/liquan-wang-a37634196)<sup>1,2,3</sup>,
@@ -45,7 +41,7 @@ grasp stability.</small>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tkl_lywZ94o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br />
-- Code (coming soon)
-- Paper (coming soon)
+- [Code](https://github.com/dylanturpin/graspd)
+- [Paper](https://www.ecva.net/papers/eccv_2022/papers_ECCV/html/5242_ECCV_2022_paper.php)
 - [arXiv](https://arxiv.org/abs/2208.12250)
 - [Video walkthrough](https://www.youtube.com/watch?v=tkl_lywZ94o)
